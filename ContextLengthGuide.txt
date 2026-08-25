@@ -1,0 +1,12 @@
+As your chat history grows, you might get a buffer error.
+
+To fix that:
+
+LM Studio -> Settings -> Library -> Model Settings
+
+From there:
+Turn off “Automatic Optimize Based On Hardware” -> Increase Context Length
+
+Simple Explanation Below:
+
+(More Context Length -> More RAM & VRAM -> More Chat) 
