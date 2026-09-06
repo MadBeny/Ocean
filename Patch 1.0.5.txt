@@ -1,0 +1,3 @@
+Uninstall Ocean, Reinstall it with ‘Patch 1.0.5’
+
+Patch 1.0.5 : Performance, Stability, UI, Agentic Behavior (and some backend bugs)
