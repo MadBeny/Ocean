@@ -1,0 +1,18 @@
+Update 1.1 Notes:
+
+Updated AI system prompt to emulate Google’s
+LaMDA (Language Model for Dialogue Applications) for more 
+natural, context-aware dialogue.
+
+Added visual copy/paste support via right-click 
+button. [increases the quality of your life]
+
+Improved the protectMath logic to prevent “false positive” 
+LaTeX detection, the parser now distinguishes between 
+actual mathematical notation and plain text that happens 
+to be enclosed in dollar signs.
+
+Recommendation: To maximize output quality, prefer high-quantization
+variants of powerful models. These retain more fine-grained weights than 
+lower-quants, resulting in better context understanding and less hallucination. 
+Ensure you have sufficient RAM/VRAM before loading larger quants.
